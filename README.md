@@ -11,7 +11,7 @@
 
 
 **Some of my skills:**
- - [x] Python, Java and JavaScript
+ - [x] Python, Java and TypeScript
  - [x] HTML, CSS and React.js
  - [x] Postgres
  - [x] Docker
