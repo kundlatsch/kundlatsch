@@ -3,8 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kundlatsch/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/gustavoek)
 
+ - 📚 Full-stack developer
  - 🎓 Undergraduate student at Universidade Federal de Santa Catarina (UFSC)
- - 📚 Full-stack developer at [@laboratoriobridge](https://github.com/laboratoriobridge)
  - 🧪 Former intelligent agents researcher at UFSC's Artificial Intelligence and Computer Theory Lab (IATE)
  - 📱 Currently learning flutter
  - 📃 LaTeX evangelist
